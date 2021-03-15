@@ -1,4 +1,5 @@
- 							Employee Management System(Revision 1.0)
+ 
+   Employee Management System(Revision 1.0)
 
 Objective:
 	Employee management system is designed to manage the employee of any organization. Where an admin can Add, Delete, and Update a new employee. Admin can manage the leaves, work of the employees. The user can manage his own profile and leaves and all other details as well.
